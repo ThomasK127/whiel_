@@ -1,0 +1,3 @@
+C:/Users/tkrzy/OneDrive/Desktop/New folder (3)/Petla for if/while_jan_kowalski/cmake-build-debug/CMakeFiles/Petla_while.dir
+C:/Users/tkrzy/OneDrive/Desktop/New folder (3)/Petla for if/while_jan_kowalski/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tkrzy/OneDrive/Desktop/New folder (3)/Petla for if/while_jan_kowalski/cmake-build-debug/CMakeFiles/rebuild_cache.dir
